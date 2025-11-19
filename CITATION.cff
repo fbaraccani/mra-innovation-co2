@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or analysis, please cite the associated preprint."
+title: "Code and Data for: Quantifying Innovation's Impact on CO2: A Meta Regression Analysis of Current Econometric Evidence"
+version: "1.0.0"
+authors:
+  - family-names: "Baraccani"
+    given-names: "Francesco"
+    affiliation: "University of Bologna"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17266456" 
+  - type: url
+    value: "https://ssrn.com/abstract=5564420"
+abstract: >
+  This repository contains the reproducible code, data processing scripts, and outputs
+  for the preprint 'Quantifying Innovation's Impact on CO2: A Meta Regression Analysis of Current Econometric Evidence'. Users of this repository
+  should cite the preprint, not the repository.
+keywords:
+  - Meta-Regression-Analysis
+  - Stata
+  - innovation
+  - CO2
+  - Publication Bias  
+license: "CC-BY-4.0"
+url: "https://github.com/fbaraccani/mra-innovation-co2"
+repository-type: "git"
