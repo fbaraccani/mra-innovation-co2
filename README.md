@@ -13,8 +13,9 @@ Short Summary: Meta Regression Analysis of 49 econometric studies to quantify th
 ## Citation 
 If you use this repository, please cite the associated preprint:
 
-Baraccani, F. (2025). Quantifying Innovation's Impact on CO2: A Meta Regression Analysis of Current Econometric Evidence. Available at SSRN 5564420.
-Zenodo. DOI: [10.5281/zenodo.17266456](https://zenodo.org/records/17266457)
+Baraccani, F. (2025). Quantifying Innovation's Impact on CO2: A Meta Regression Analysis of Current Econometric Evidence. Available at SSRN 5564420.  
+  
+Zenodo. DOI: [10.5281/zenodo.17266456](https://zenodo.org/records/17266457)  
 SSRN: [https://ssrn.com/abstract=5564420](https://ssrn.com/abstract=5564420)
 
 ## Contacts
