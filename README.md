@@ -12,6 +12,6 @@ Short Summary: Meta Regression Analysis of 49 econometric studies to quantify th
 
 ## Contacts
 Francesco Baraccani
-fr.baraccani@gmail.com
-linkedin.com/in/francesco-baraccani
-https://lily-hibiscus-815.notion.site/Francesco-Baraccani-764271b1b3ff48bca1f4e6fdb0110fd0
+- fr.baraccani@gmail.com
+- [linkedin.com/in/francesco-baraccani](https://linkedin.com/in/francesco-baraccani)
+- [Access To My Web Page](https://lily-hibiscus-815.notion.site/What-About-Me-764271b1b3ff48bca1f4e6fdb0110fd0?pvs=4)
