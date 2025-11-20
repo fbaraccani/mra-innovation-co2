@@ -12,8 +12,7 @@ identifiers:
   - type: url
     value: "https://ssrn.com/abstract=5564420"
 abstract: >
-  This repository contains the reproducible code, data processing scripts, and outputs
-  for the preprint 'Quantifying Innovation's Impact on CO2: A Meta Regression Analysis of Current Econometric Evidence'. Users of this repository
+  This repository contains the code and data required to reproduce the results in the preprint 'Quantifying Innovation's Impact on CO2: A Meta Regression Analysis of Current Econometric Evidence'. Users of this repository
   should cite the preprint, not the repository.
 keywords:
   - Meta-Regression-Analysis
