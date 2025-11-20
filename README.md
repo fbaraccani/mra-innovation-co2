@@ -1,5 +1,5 @@
 # mra-innovation-co2
-A Meta Regression Analysis of 49 econometric studies to quantify the impact of innovation investments on CO2 levels.
+A Meta Regression Analysis of 49 econometric studies to quantify the impact of innovation investments on CO2 levels (code and data).
 
 ## Quick start
 1. Put cleaned dataset in `data/clean/` named `AGGIUNGEREEE`.
